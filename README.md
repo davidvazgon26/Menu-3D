@@ -121,8 +121,9 @@ ul li:last-child::after{
 
 ```
 
-**Para ver el resultado sigue este** [Link](https://codepen.io/davidvazgon/pen/YzejGYO/) {:target="_blank" rel="noopener"} 
-<a href="https://codepen.io/davidvazgon/pen/YzejGYO" target="_blank">Link</a>
+**Para ver el resultado sigue este** [Link](https://codepen.io/davidvazgon/pen/YzejGYO/) 
+
+parece que ya no funciona el target: _blank en Mark Down...
 
 
          
