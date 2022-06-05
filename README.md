@@ -121,7 +121,7 @@ ul li:last-child::after{
 
 ```
 
-**Para ver el resultado sigue este** [Link](https://codepen.io/davidvazgon/pen/YzejGYO){:target="_blank"}
+**Para ver el resultado sigue este** [Link](https://codepen.io/davidvazgon/pen/YzejGYO){:target="_blank" rel="noopener"}
 
 
          
