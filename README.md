@@ -121,11 +121,7 @@ ul li:last-child::after{
 
 ```
 
-**Este es el resultado:**
+**Para ver el resultado sigue este** [Link](https://codepen.io/davidvazgon/pen/YzejGYO)
 
 
-          <iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
          
